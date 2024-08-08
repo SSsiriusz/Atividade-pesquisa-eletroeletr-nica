@@ -1,0 +1,50 @@
+1. Diodos Retificadores
+Os diodos retificadores são dispositivos semicondutores que permitem a passagem de corrente elétrica em uma única direção. São utilizados principalmente para converter corrente alternada (CA) em corrente contínua (CC).
+
+Tipos: Diodo de junção PN, diodo Schottky, diodo Zener.
+Aplicações: Fontes de alimentação, retificadores de onda completa e meia-onda, circuitos de proteção contra inversão de polaridade.
+2. Diodos Emissores de Luz (LED)
+Os LEDs são diodos que emitem luz quando uma corrente elétrica passa por eles. Eles são mais eficientes em termos energéticos do que as lâmpadas incandescentes e fluorescentes.
+
+Funcionamento: A luz é gerada pela recombinação de elétrons e lacunas no material semicondutor.
+Aplicações: Iluminação, displays, indicadores, sinalização.
+3. Fontes de Alimentação
+Fontes de alimentação são dispositivos que convertem a tensão da rede elétrica em uma tensão e corrente adequadas para alimentar circuitos eletrônicos.
+
+Tipos: Fontes lineares, fontes chaveadas.
+Componentes: Transformadores, retificadores, reguladores de tensão.
+Aplicações: Equipamentos eletrônicos, computadores, sistemas industriais.
+4. Transistores Bipolares
+Os transistores bipolares (BJT) são dispositivos semicondutores que podem atuar como amplificadores ou interruptores. Eles possuem três camadas de material semicondutor.
+
+Modos de operação: Ativo (amplificação), saturação (chaveamento).
+Aplicações: Amplificadores de áudio, circuitos de chaveamento.
+4.1 Chaveamento
+O chaveamento em transistores é o ato de ligar e desligar rapidamente a corrente elétrica em um circuito. Isso é útil em circuitos digitais e em fontes de alimentação.
+
+5. Amplificadores Operacionais
+Os amplificadores operacionais são dispositivos que podem amplificar sinais elétricos. Eles têm uma alta impedância de entrada e uma baixa impedância de saída.
+
+5.1 Amplificador
+Utilizado para aumentar a amplitude de um sinal.
+
+5.2 Comparador
+Compara dois sinais e fornece uma saída que indica qual dos sinais é maior.
+
+5.3 Somador
+Um amplificador que soma múltiplos sinais de entrada.
+
+5.4 Subtrator
+Um amplificador que subtrai um sinal de entrada de outro.
+
+6. Tiristores
+Os tiristores são dispositivos semicondutores que atuam como interruptores controlados por tensão. Eles podem ser usados para controlar potência em circuitos.
+
+6.1 SCR (Silicon Controlled Rectifier)
+Um tipo de tiristor que permite o controle da corrente elétrica em uma única direção.
+
+6.2 DIAC
+Um dispositivo que pode ser ativado em uma tensão específica e é usado para disparar SCRs.
+
+6.3 TRIAC
+Um tiristor que permite o controle da corrente elétrica em ambas as direções, muito utilizado em aplicações de controle de potência.
